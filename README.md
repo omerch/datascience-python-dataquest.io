@@ -1,4 +1,4 @@
-# Datascience Porjects
+# Dataquest.io Path for DATASCIENTIST
 
 ### This repository is highlight of my datascience projects and give you glipmse of my data analysis skills.
 
